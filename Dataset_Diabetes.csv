@@ -1,0 +1,550 @@
+ID,Fasting Glucose (mg/dL),OGTT 2hr (mg/dL),HbA1c (%),Random Glucose (mg/dL),Symptoms,Diagnosis,Gender,State,Systolic BP (mmHg),Diastolic BP (mmHg),BMI,Age,Exercise Level,Access to Healthy Food,Pregnant,Age at Onset,Family History,Frequent Urination,Very Thirsty,Weight Loss,Feeling Exhausted,Diabetes Type
+P1,187,131,7,157,No,Likely Diabetes,Female,Texas,111,64,27.7,47,Moderate,Yes,Yes,20,No,Yes,No,No,Yes,Type 2
+P2,136,185,8.7,106,Yes,Likely Diabetes,Female,New York,137,60,30,62,None,Yes,No,23,Yes,No,No,No,No,Type 2
+P3,177,226,5.8,101,Yes,Likely Diabetes,Non-binary,California,174,63,29,36,Intense,Yes,No,6,No,Yes,Yes,Yes,No,Type 1
+P4,99,229,9.3,239,No,Likely Diabetes,Male,California,160,71,36.2,40,Light,Sometimes,No,10,Yes,No,Yes,No,Yes,Type 2
+P5,191,116,8.1,234,No,Likely Diabetes,Non-binary,Georgia,128,86,42.1,51,Intense,No,No,17,Yes,Yes,Yes,No,Yes,Type 2
+P6,156,203,5.7,227,Yes,Likely Diabetes,Female,Illinois,102,101,26.6,30,Light,Yes,No,8,No,Yes,Yes,Yes,No,Type 1
+P7,145,236,8.3,207,Yes,Likely Diabetes,Non-binary,Ohio,107,82,33.1,60,Light,Yes,No,26,Yes,No,Yes,No,Yes,Type 2
+P8,105,142,7.3,111,Yes,Likely Diabetes,Female,Texas,102,84,39.4,79,Intense,Yes,No,22,No,Yes,No,No,Yes,Type 2
+P9,187,138,8.1,209,No,Likely Diabetes,Non-binary,Florida,159,80,29.5,71,Moderate,Yes,No,16,No,No,Yes,No,Yes,Type 2
+P10,206,125,8.4,139,No,Likely Diabetes,Female,Ohio,137,83,23,46,None,No,No,34,Yes,Yes,Yes,Yes,Yes,Type 2
+P11,167,198,5.2,103,No,Likely Diabetes,Non-binary,Georgia,133,84,31.1,53,Light,Sometimes,No,44,No,No,No,No,Yes,Type 2
+P12,171,149,7.2,118,No,Likely Diabetes,Non-binary,California,175,104,20,39,Moderate,No,No,11,Yes,No,No,No,No,Type 2
+P13,159,112,9.2,253,No,Likely Diabetes,Non-binary,Florida,153,105,43.5,69,Light,Yes,No,52,Yes,Yes,No,No,No,Type 2
+P14,159,159,6.3,214,Yes,Likely Diabetes,Male,California,178,91,20.5,69,None,No,No,23,Yes,Yes,Yes,Yes,No,Type 1
+P15,172,234,7.6,96,Yes,Likely Diabetes,Non-binary,Texas,138,91,30.1,64,Light,Yes,No,10,Yes,No,No,No,Yes,Type 2
+P16,201,156,6.5,118,Yes,Likely Diabetes,Male,Illinois,103,64,32.5,53,None,Sometimes,No,24,No,No,No,No,No,Type 2
+P17,184,135,6.9,228,Yes,Likely Diabetes,Female,Ohio,131,95,44.6,26,None,Sometimes,Yes,25,Yes,Yes,Yes,No,Yes,Type 2
+P18,188,119,7.4,122,No,Likely Diabetes,Non-binary,Ohio,168,105,22.9,56,Light,Sometimes,No,47,No,Yes,Yes,No,Yes,Type 2
+P19,108,164,7.4,223,Yes,Likely Diabetes,Female,New York,130,101,21.5,68,Light,Yes,Yes,41,Yes,No,No,Yes,Yes,Gestational
+P20,87,107,5.7,200,Yes,Likely Diabetes,Female,Florida,122,108,18.7,36,None,No,No,20,Yes,No,No,Yes,Yes,Type 2
+P21,106,243,8,168,Yes,Likely Diabetes,Non-binary,Michigan,136,101,22.6,55,Moderate,Sometimes,No,11,No,Yes,No,No,Yes,Type 2
+P22,137,241,5.2,249,Yes,Likely Diabetes,Male,Georgia,137,98,24,23,Intense,Yes,No,9,Yes,Yes,No,Yes,Yes,Type 1
+P23,86,214,5.5,147,Yes,Likely Diabetes,Non-binary,Michigan,179,75,35.2,69,None,Yes,No,15,Yes,Yes,No,No,Yes,Type 2
+P24,172,242,4.8,115,Yes,Likely Diabetes,Female,New York,136,92,24.3,64,Light,No,No,19,Yes,No,No,Yes,Yes,Type 2
+P25,192,191,5.3,118,No,Likely Diabetes,Female,Texas,160,108,19,32,Light,Sometimes,Yes,7,Yes,Yes,Yes,No,No,Gestational
+P26,114,197,7,93,Yes,Likely Diabetes,Non-binary,Georgia,149,80,40.4,74,Moderate,Yes,No,73,Yes,No,Yes,No,Yes,Type 2
+P27,122,165,7.6,188,No,Likely Diabetes,Male,Illinois,166,68,28.2,37,Intense,No,No,27,No,Yes,Yes,No,No,Type 2
+P28,86,131,8.5,230,Yes,Likely Diabetes,Male,Michigan,142,65,27.9,26,None,Sometimes,No,25,Yes,Yes,No,No,Yes,Type 2
+P29,148,185,5.3,128,Yes,Likely Diabetes,Female,Illinois,116,104,26.5,49,None,No,No,41,Yes,No,No,Yes,Yes,Type 2
+P30,144,150,8.8,104,Yes,Likely Diabetes,Female,Michigan,121,94,44.3,21,Intense,No,Yes,13,No,No,No,No,No,Type 2
+P31,105,162,8.3,208,Yes,Likely Diabetes,Male,Illinois,161,98,23,67,None,Yes,No,19,Yes,No,Yes,Yes,Yes,Type 2
+P32,117,224,6.7,118,No,Likely Diabetes,Non-binary,Michigan,107,81,42.3,35,Intense,Yes,No,7,No,Yes,No,No,Yes,Type 2
+P33,160,249,9.2,246,Yes,Likely Diabetes,Female,Illinois,139,100,39.1,22,Light,Yes,No,10,Yes,No,Yes,No,No,Type 2
+P34,142,157,9.5,164,Yes,Likely Diabetes,Male,New York,104,64,20.5,37,Intense,No,No,21,Yes,No,Yes,No,Yes,Type 2
+P35,106,157,5.8,205,No,Prediabetes,Female,Pennsylvania,103,101,44.6,40,None,Yes,No,30,No,Yes,No,No,No,Prediabetes
+P36,209,185,6.6,121,Yes,Likely Diabetes,Non-binary,Georgia,148,82,25.7,79,Intense,No,No,25,Yes,Yes,No,No,Yes,Type 2
+P37,192,148,9.2,219,Yes,Likely Diabetes,Male,Florida,121,76,21.1,28,Moderate,No,No,12,No,Yes,No,No,Yes,Type 2
+P38,173,169,8.2,173,No,Likely Diabetes,Female,Texas,128,71,40.5,54,Light,Yes,No,25,Yes,Yes,Yes,No,Yes,Type 2
+P39,133,114,5,111,No,Likely Diabetes,Non-binary,North Carolina,95,82,37.2,39,Light,Sometimes,No,15,Yes,No,Yes,No,Yes,Type 2
+P40,175,153,8.5,116,Yes,Likely Diabetes,Female,California,126,75,34.9,75,Intense,Sometimes,No,42,Yes,Yes,Yes,Yes,No,Type 2
+P41,143,200,8.7,170,No,Likely Diabetes,Non-binary,Florida,165,62,22.6,21,None,Sometimes,No,12,Yes,No,Yes,No,No,Type 2
+P42,126,107,8.3,215,No,Likely Diabetes,Non-binary,California,161,89,31.2,46,Moderate,No,No,46,No,No,No,No,Yes,Type 2
+P43,176,152,8.6,181,Yes,Likely Diabetes,Male,Georgia,178,81,39.2,61,Light,No,No,28,Yes,No,No,Yes,Yes,Type 2
+P44,144,159,8.7,110,No,Likely Diabetes,Non-binary,Florida,114,68,26.5,51,Light,No,No,39,No,No,No,Yes,No,Type 2
+P45,164,207,5.7,136,Yes,Likely Diabetes,Female,Illinois,129,88,26.8,30,None,Yes,No,27,No,Yes,Yes,Yes,Yes,Type 1
+P46,99,104,5.9,190,Yes,Prediabetes,Non-binary,Illinois,172,106,18.6,59,None,No,No,18,Yes,Yes,No,No,Yes,Prediabetes
+P47,146,202,7.8,173,Yes,Likely Diabetes,Non-binary,North Carolina,111,96,23.1,26,Moderate,Yes,No,18,Yes,Yes,Yes,Yes,Yes,Type 1
+P48,146,105,9.1,95,Yes,Likely Diabetes,Male,California,112,82,41.7,59,Intense,Yes,No,14,No,No,No,Yes,Yes,Type 2
+P49,131,208,6.3,236,No,Likely Diabetes,Non-binary,Texas,139,72,30.2,48,None,Sometimes,No,16,No,Yes,Yes,Yes,No,Type 1
+P50,146,215,7.6,220,Yes,Likely Diabetes,Non-binary,Georgia,178,91,44.6,24,Intense,Sometimes,No,10,Yes,No,Yes,No,No,Type 2
+P51,135,193,8,90,No,Likely Diabetes,Female,Illinois,147,105,29,21,Moderate,Sometimes,Yes,16,Yes,Yes,No,No,Yes,Gestational
+P52,192,146,6.9,147,No,Likely Diabetes,Male,Pennsylvania,176,106,37.5,36,Intense,Yes,No,27,Yes,Yes,No,No,Yes,Type 2
+P53,139,198,8.2,213,Yes,Likely Diabetes,Male,New York,162,107,26,59,Light,Yes,No,50,No,Yes,Yes,No,Yes,Type 2
+P54,200,154,9,255,No,Likely Diabetes,Male,New York,159,82,28.1,47,Intense,Yes,No,38,Yes,No,Yes,No,Yes,Type 2
+P55,148,151,7.7,104,Yes,Likely Diabetes,Non-binary,Michigan,95,104,23.6,48,Moderate,No,No,45,No,No,No,Yes,Yes,Type 2
+P56,205,243,7.3,251,Yes,Likely Diabetes,Male,Texas,152,76,27.7,52,Moderate,Yes,No,14,Yes,Yes,Yes,Yes,No,Type 1
+P57,87,112,6.9,252,No,Likely Diabetes,Non-binary,New York,120,99,33,74,Moderate,Sometimes,No,21,Yes,No,Yes,Yes,Yes,Type 2
+P58,185,213,7.5,153,Yes,Likely Diabetes,Non-binary,Michigan,114,80,44.8,38,Intense,Sometimes,No,21,Yes,Yes,Yes,Yes,Yes,Type 1
+P59,135,223,6.5,114,Yes,Likely Diabetes,Female,California,104,61,36.1,78,Light,Yes,Yes,71,Yes,No,Yes,No,Yes,Gestational
+P60,91,205,6.6,113,Yes,Likely Diabetes,Female,Illinois,153,96,23.8,48,None,Yes,No,35,Yes,No,No,No,Yes,Type 2
+P61,105,246,7.3,101,Yes,Likely Diabetes,Female,Illinois,169,65,19.7,36,Light,Sometimes,No,23,Yes,Yes,No,No,Yes,Type 2
+P62,157,244,5.1,107,Yes,Likely Diabetes,Female,Pennsylvania,135,103,21.8,48,Intense,Yes,No,5,Yes,No,No,No,No,Type 2
+P63,123,219,5.9,104,Yes,Likely Diabetes,Female,Florida,99,77,33.4,70,Intense,Sometimes,No,16,Yes,Yes,No,No,Yes,Type 2
+P64,102,162,7.4,116,No,Likely Diabetes,Non-binary,New York,159,89,38.8,49,None,No,No,43,Yes,No,Yes,Yes,No,Type 2
+P65,88,118,6.8,161,Yes,Likely Diabetes,Non-binary,California,111,81,43.4,19,Intense,Sometimes,No,8,No,Yes,Yes,Yes,Yes,Type 1
+P66,173,191,6.4,149,Yes,Likely Diabetes,Male,Ohio,116,92,18.9,76,Moderate,No,No,46,Yes,No,Yes,No,Yes,Type 2
+P67,144,157,8.2,234,Yes,Likely Diabetes,Non-binary,New York,135,89,32.4,69,Moderate,Yes,No,17,Yes,Yes,Yes,No,Yes,Type 2
+P68,98,189,8.1,182,Yes,Likely Diabetes,Non-binary,Texas,162,76,31,27,Moderate,Yes,No,6,Yes,No,Yes,Yes,Yes,Type 2
+P69,198,216,5.6,142,No,Likely Diabetes,Female,Florida,163,102,35.9,19,Moderate,No,No,14,No,No,No,No,Yes,Type 2
+P70,206,161,8.9,97,No,Likely Diabetes,Non-binary,New York,105,91,33.3,19,Moderate,Yes,No,9,Yes,No,No,No,Yes,Type 2
+P71,93,122,7.1,168,No,Likely Diabetes,Female,California,150,101,36.7,77,Intense,No,Yes,8,No,No,Yes,No,No,Type 2
+P72,174,226,8.3,116,Yes,Likely Diabetes,Male,New York,145,73,35.9,41,None,Yes,No,22,No,No,No,No,No,Type 2
+P73,137,236,7.5,139,Yes,Likely Diabetes,Male,Texas,115,69,21.6,34,None,Sometimes,No,9,No,Yes,No,No,Yes,Type 2
+P74,86,239,9.5,220,Yes,Likely Diabetes,Non-binary,Ohio,170,106,39.7,49,Moderate,Yes,No,23,Yes,Yes,No,Yes,Yes,Type 1
+P75,168,228,8.3,182,No,Likely Diabetes,Male,Georgia,120,95,21.8,33,Intense,Sometimes,No,6,No,Yes,No,No,Yes,Type 2
+P76,176,157,8.1,113,Yes,Likely Diabetes,Non-binary,North Carolina,113,93,37,33,Light,Sometimes,No,16,Yes,No,No,Yes,Yes,Type 2
+P77,195,221,8.5,149,Yes,Likely Diabetes,Male,Ohio,154,68,29.5,63,Light,No,No,21,Yes,Yes,No,No,Yes,Type 2
+P78,144,100,5.5,211,No,Likely Diabetes,Female,Michigan,165,101,32.1,56,Intense,Yes,No,14,No,No,No,No,No,Type 2
+P79,155,133,5.8,220,Yes,Likely Diabetes,Female,New York,141,87,42.4,70,Moderate,No,No,10,Yes,No,No,No,Yes,Type 2
+P80,128,195,8.2,237,Yes,Likely Diabetes,Female,Illinois,165,70,42.1,48,None,Yes,No,12,No,Yes,Yes,No,Yes,Type 2
+P81,209,225,7.1,135,Yes,Likely Diabetes,Female,Pennsylvania,120,73,40.2,60,Intense,Sometimes,No,55,Yes,Yes,Yes,No,Yes,Type 2
+P82,92,217,8.3,104,No,Likely Diabetes,Non-binary,Illinois,134,98,32,41,Light,Sometimes,No,15,No,Yes,No,No,Yes,Type 2
+P83,131,147,5.3,242,Yes,Likely Diabetes,Male,Ohio,99,106,38,18,Light,Yes,No,13,Yes,Yes,Yes,No,No,Type 2
+P84,119,188,7.3,106,No,Likely Diabetes,Non-binary,Illinois,115,78,32.1,28,Light,Yes,No,16,Yes,Yes,Yes,No,Yes,Type 2
+P85,162,216,6.6,215,No,Likely Diabetes,Female,California,172,74,41.5,72,Moderate,No,Yes,6,Yes,Yes,No,No,Yes,Gestational
+P86,165,228,6.9,173,Yes,Likely Diabetes,Non-binary,Illinois,98,87,29.2,38,Light,Yes,No,12,No,No,Yes,Yes,No,Type 2
+P87,120,115,7.6,98,No,Likely Diabetes,Male,Florida,117,83,44.2,21,Intense,Yes,No,15,Yes,No,No,No,Yes,Type 2
+P88,134,168,7.2,255,Yes,Likely Diabetes,Non-binary,Georgia,178,67,43.2,24,Intense,Yes,No,8,Yes,Yes,No,No,No,Type 2
+P89,188,121,7.3,152,Yes,Likely Diabetes,Male,New York,109,102,38.2,43,Light,No,No,14,Yes,Yes,No,Yes,Yes,Type 1
+P90,88,192,7.1,206,No,Likely Diabetes,Non-binary,Illinois,102,68,25.9,64,Intense,Yes,No,25,No,Yes,Yes,Yes,Yes,Type 1
+P91,86,175,6.7,219,No,Likely Diabetes,Male,Texas,135,106,22,67,Light,Sometimes,No,24,Yes,No,Yes,No,No,Type 2
+P92,90,243,8.4,177,No,Likely Diabetes,Male,Georgia,113,92,41.1,29,Light,No,No,20,Yes,No,No,Yes,Yes,Type 2
+P93,138,185,4.9,161,Yes,Likely Diabetes,Female,Georgia,140,92,22.9,48,None,No,No,12,Yes,Yes,No,No,Yes,Type 2
+P94,190,128,7.6,228,Yes,Likely Diabetes,Male,Illinois,122,78,41.1,34,Moderate,Sometimes,No,8,Yes,Yes,No,No,Yes,Type 2
+P95,88,168,7.5,153,Yes,Likely Diabetes,Female,Georgia,162,62,31.5,50,Moderate,Sometimes,No,33,Yes,No,Yes,No,Yes,Type 2
+P96,138,146,8.2,161,Yes,Likely Diabetes,Female,Pennsylvania,109,69,29.3,28,None,Sometimes,No,14,Yes,No,Yes,Yes,No,Type 2
+P97,177,193,7.6,110,Yes,Likely Diabetes,Female,Illinois,131,99,42.4,45,None,Yes,Yes,16,No,Yes,No,No,No,Gestational
+P98,147,243,8.7,107,Yes,Likely Diabetes,Non-binary,California,95,106,34.5,49,Moderate,Sometimes,No,18,Yes,No,Yes,No,No,Type 2
+P99,102,184,9.3,153,Yes,Likely Diabetes,Non-binary,Ohio,161,101,33.8,18,Light,Yes,No,10,Yes,Yes,No,No,No,Type 2
+P100,174,138,6.4,171,Yes,Likely Diabetes,Non-binary,Florida,118,60,33.3,64,Light,No,No,54,Yes,Yes,Yes,No,Yes,Type 2
+P101,128,199,5.9,199,Yes,Likely Diabetes,Non-binary,North Carolina,121,88,28.3,45,Moderate,No,No,25,No,No,Yes,No,Yes,Type 2
+P102,118,132,6.8,184,Yes,Likely Diabetes,Male,Michigan,134,109,39.3,70,Light,Sometimes,No,25,No,No,Yes,No,Yes,Type 2
+P103,158,200,6.2,255,No,Likely Diabetes,Male,Georgia,157,93,25.2,59,None,Yes,No,48,No,Yes,Yes,No,Yes,Type 2
+P104,146,122,7.7,121,Yes,Likely Diabetes,Non-binary,California,155,72,43.4,24,Light,Sometimes,No,22,Yes,No,No,No,Yes,Type 2
+P105,184,109,9.1,100,No,Likely Diabetes,Male,New York,130,60,42.2,19,Light,Sometimes,No,18,Yes,Yes,No,No,No,Type 2
+P106,98,168,5.5,134,No,Prediabetes,Male,New York,118,93,27.4,59,Intense,Yes,No,43,Yes,No,Yes,No,Yes,Prediabetes
+P107,179,199,5.3,122,Yes,Likely Diabetes,Female,Michigan,118,88,37.8,41,Intense,Sometimes,Yes,24,Yes,Yes,No,Yes,Yes,Gestational
+P108,132,133,6,191,No,Likely Diabetes,Female,Florida,98,107,33.7,21,Intense,No,No,11,Yes,No,Yes,Yes,Yes,Type 2
+P109,99,237,8.2,258,Yes,Likely Diabetes,Female,Georgia,161,106,27.4,61,Light,Sometimes,No,13,No,No,No,No,No,Type 2
+P110,156,246,7.6,225,Yes,Likely Diabetes,Female,Pennsylvania,128,72,44.7,36,Moderate,Yes,No,5,No,Yes,Yes,No,No,Type 2
+P111,162,195,5.3,100,Yes,Likely Diabetes,Male,Michigan,151,107,19.2,43,None,Yes,No,30,No,No,No,No,No,Type 2
+P112,171,100,9.1,177,Yes,Likely Diabetes,Non-binary,Florida,143,108,25.2,28,Light,No,No,10,Yes,No,No,No,Yes,Type 2
+P113,208,168,8.5,130,Yes,Likely Diabetes,Male,Georgia,147,88,32.3,57,Moderate,Yes,No,42,No,No,No,Yes,No,Type 2
+P114,205,103,4.9,234,Yes,Likely Diabetes,Male,California,117,98,32.3,67,Light,Yes,No,58,Yes,Yes,No,No,Yes,Type 2
+P115,146,115,7.9,165,No,Likely Diabetes,Male,Ohio,163,83,34.1,60,None,No,No,48,Yes,No,No,Yes,No,Type 2
+P116,124,123,8.4,210,No,Likely Diabetes,Female,Pennsylvania,147,85,38.4,28,Light,Sometimes,No,26,No,No,No,No,Yes,Type 2
+P117,169,179,6.6,135,Yes,Likely Diabetes,Female,North Carolina,156,76,35,62,None,No,No,48,Yes,Yes,No,No,Yes,Type 2
+P118,164,101,5.1,249,No,Likely Diabetes,Female,New York,135,66,34.4,20,Light,Sometimes,No,14,Yes,No,No,No,Yes,Type 2
+P119,193,227,5.2,169,Yes,Likely Diabetes,Non-binary,Texas,151,72,19.9,29,None,No,No,27,Yes,Yes,No,No,No,Type 2
+P120,166,183,5.3,143,Yes,Likely Diabetes,Male,California,154,64,28.5,20,Light,Sometimes,No,18,No,Yes,Yes,No,Yes,Type 2
+P121,195,239,8.8,175,No,Likely Diabetes,Non-binary,New York,148,85,24.6,59,None,No,No,10,No,No,No,No,No,Type 2
+P122,137,223,9.1,181,Yes,Likely Diabetes,Female,Illinois,164,108,25.5,44,Intense,Sometimes,No,21,Yes,No,Yes,Yes,Yes,Type 2
+P123,108,132,5.4,237,Yes,Likely Diabetes,Non-binary,Texas,151,62,33.2,66,Light,No,No,55,No,No,No,Yes,Yes,Type 2
+P124,110,200,5.9,250,Yes,Likely Diabetes,Male,New York,104,66,23.8,71,Light,Sometimes,No,42,Yes,Yes,Yes,No,Yes,Type 2
+P125,173,111,5.6,257,Yes,Likely Diabetes,Male,Florida,134,108,26.3,19,Moderate,No,No,12,Yes,No,No,No,Yes,Type 2
+P126,208,166,5.7,249,No,Likely Diabetes,Female,Pennsylvania,101,98,24.8,66,Moderate,Yes,No,55,No,Yes,Yes,No,Yes,Type 2
+P127,144,164,8.7,186,Yes,Likely Diabetes,Female,New York,132,60,43.6,33,None,Sometimes,No,14,No,Yes,Yes,No,Yes,Type 2
+P128,208,173,6.4,91,No,Likely Diabetes,Non-binary,North Carolina,179,108,43.5,19,Light,No,No,12,No,Yes,Yes,No,No,Type 2
+P129,193,142,6.3,122,Yes,Likely Diabetes,Female,Ohio,155,76,34.7,77,None,Sometimes,No,76,Yes,No,No,No,Yes,Type 2
+P130,125,143,5.9,247,Yes,Likely Diabetes,Female,Florida,178,102,43,71,Intense,Sometimes,Yes,25,No,No,Yes,No,No,Type 2
+P131,113,128,7.7,250,Yes,Likely Diabetes,Male,California,97,84,39.3,47,Moderate,No,No,10,No,No,Yes,Yes,Yes,Type 2
+P132,99,240,6.6,166,No,Likely Diabetes,Female,California,145,62,34.1,37,None,Sometimes,Yes,25,No,No,No,Yes,No,Gestational
+P133,129,111,8.3,205,Yes,Likely Diabetes,Female,California,141,74,18.7,55,None,No,No,43,Yes,Yes,No,No,Yes,Type 2
+P134,149,194,5.8,243,No,Likely Diabetes,Male,California,162,88,39,45,Moderate,Yes,No,28,No,No,Yes,Yes,Yes,Type 2
+P135,173,145,8.5,239,No,Likely Diabetes,Male,Ohio,170,102,37.1,42,Light,Sometimes,No,37,Yes,Yes,Yes,Yes,Yes,Type 2
+P136,155,229,7.6,192,Yes,Likely Diabetes,Non-binary,New York,132,91,34.8,49,None,Yes,No,22,Yes,Yes,Yes,Yes,Yes,Type 1
+P137,93,134,5.3,255,No,Normal,Female,Georgia,130,85,38.7,78,Moderate,Sometimes,No,60,Yes,Yes,No,No,No,None
+P138,172,180,6.7,192,No,Likely Diabetes,Male,New York,135,75,32.1,27,Light,Sometimes,No,24,Yes,No,Yes,No,Yes,Type 2
+P139,85,189,8.9,179,No,Likely Diabetes,Non-binary,Illinois,163,84,37.2,77,Intense,Sometimes,No,52,Yes,No,Yes,No,Yes,Type 2
+P140,192,107,9.1,211,Yes,Likely Diabetes,Non-binary,Pennsylvania,107,87,43.3,59,Moderate,No,No,46,No,No,Yes,No,No,Type 2
+P141,92,192,7,232,Yes,Likely Diabetes,Female,Texas,152,68,28.5,57,None,Yes,No,31,Yes,Yes,Yes,No,Yes,Type 2
+P142,172,189,7.1,195,Yes,Likely Diabetes,Female,Georgia,144,60,37.3,50,Intense,Sometimes,Yes,14,No,Yes,No,No,No,Gestational
+P143,147,214,9.1,208,Yes,Likely Diabetes,Non-binary,Georgia,124,88,31.1,30,Light,No,No,18,Yes,No,Yes,Yes,Yes,Type 2
+P144,95,204,7.6,138,Yes,Likely Diabetes,Male,New York,156,81,36.4,73,Light,Sometimes,No,56,Yes,Yes,Yes,Yes,No,Type 2
+P145,199,234,5,193,No,Likely Diabetes,Non-binary,Georgia,119,75,38.7,58,Moderate,No,No,46,Yes,No,Yes,No,Yes,Type 2
+P146,165,157,9.1,150,Yes,Likely Diabetes,Female,Michigan,121,100,19.7,71,Moderate,Sometimes,No,36,Yes,No,Yes,No,Yes,Type 2
+P147,92,213,6,212,Yes,Likely Diabetes,Male,Michigan,145,103,35.6,59,Moderate,Yes,No,46,Yes,Yes,Yes,No,Yes,Type 2
+P148,119,174,7.5,223,No,Likely Diabetes,Male,Illinois,172,100,24.5,64,Light,Yes,No,30,Yes,No,No,No,No,Type 2
+P149,119,219,5.6,98,No,Likely Diabetes,Non-binary,Texas,151,66,36.3,54,Intense,Sometimes,No,29,Yes,No,No,No,Yes,Type 2
+P150,117,120,5,95,Yes,Prediabetes,Female,North Carolina,141,73,30.9,71,Light,No,No,27,Yes,Yes,No,Yes,Yes,Type 1
+P151,207,237,6.3,162,No,Likely Diabetes,Non-binary,Ohio,133,88,39,33,None,Sometimes,No,6,Yes,No,No,Yes,No,Type 2
+P152,89,200,8.5,192,Yes,Likely Diabetes,Non-binary,New York,110,78,21.8,62,Light,No,No,61,Yes,Yes,No,Yes,No,Type 2
+P153,190,198,6.1,249,Yes,Likely Diabetes,Non-binary,Ohio,116,78,35.1,39,None,Sometimes,No,27,Yes,No,Yes,Yes,No,Type 2
+P154,187,135,5.8,130,No,Likely Diabetes,Male,North Carolina,179,61,25.9,74,Intense,No,No,35,No,No,No,No,No,Type 2
+P155,206,195,5.8,203,Yes,Likely Diabetes,Male,New York,148,100,41.1,37,Moderate,Yes,No,11,No,No,No,Yes,Yes,Type 2
+P156,125,136,7.2,97,Yes,Likely Diabetes,Female,New York,115,104,43.1,67,Moderate,Sometimes,Yes,44,No,No,No,Yes,Yes,Type 2
+P157,112,111,9.4,161,Yes,Likely Diabetes,Female,Texas,166,74,44.9,60,Light,Yes,No,37,Yes,Yes,No,No,No,Type 2
+P158,91,212,7,181,Yes,Likely Diabetes,Non-binary,Ohio,110,62,39.6,44,Moderate,Yes,No,25,No,No,Yes,No,No,Type 2
+P159,157,112,7.4,151,Yes,Likely Diabetes,Non-binary,Michigan,153,70,38.5,58,Intense,Sometimes,No,6,No,Yes,No,Yes,Yes,Type 1
+P160,156,122,8.8,173,Yes,Likely Diabetes,Non-binary,California,125,105,24.2,33,Moderate,Sometimes,No,22,No,No,No,Yes,Yes,Type 2
+P161,96,198,7.3,151,No,Likely Diabetes,Female,Ohio,136,89,27.4,51,Light,No,No,51,Yes,No,No,No,No,Type 2
+P162,118,204,5.7,200,No,Likely Diabetes,Male,Pennsylvania,168,99,30.8,49,Intense,No,No,37,No,Yes,Yes,No,Yes,Type 2
+P163,117,129,6.2,216,Yes,Likely Diabetes,Male,Pennsylvania,126,77,39,43,None,Yes,No,41,No,Yes,Yes,No,Yes,Type 2
+P164,132,116,6.3,96,Yes,Likely Diabetes,Non-binary,New York,153,107,42.7,42,Light,No,No,38,Yes,No,Yes,No,Yes,Type 2
+P165,203,212,6.7,173,Yes,Likely Diabetes,Non-binary,California,128,61,23.5,19,None,No,No,8,No,No,No,No,Yes,Type 2
+P166,107,161,6.8,221,Yes,Likely Diabetes,Non-binary,Florida,103,91,42.9,29,Intense,Sometimes,No,7,Yes,Yes,Yes,No,No,Type 2
+P167,146,183,8.6,223,No,Likely Diabetes,Non-binary,North Carolina,175,67,36.9,57,Light,No,No,55,Yes,Yes,Yes,No,Yes,Type 2
+P168,172,211,6.4,147,Yes,Likely Diabetes,Female,Illinois,105,81,34.7,26,Light,Yes,No,22,Yes,Yes,No,No,No,Type 2
+P169,121,185,7,111,Yes,Likely Diabetes,Male,California,104,65,23.8,29,Intense,No,No,26,No,No,Yes,Yes,Yes,Type 2
+P170,183,240,7.7,243,No,Likely Diabetes,Non-binary,Illinois,111,71,20,43,Moderate,Yes,No,22,Yes,Yes,No,No,Yes,Type 2
+P171,128,118,6.6,216,No,Likely Diabetes,Female,Ohio,162,106,33.6,26,Light,Sometimes,Yes,18,Yes,No,Yes,No,No,Type 2
+P172,188,199,8.7,92,No,Likely Diabetes,Non-binary,Ohio,142,99,35.8,27,Light,Yes,No,12,Yes,Yes,No,Yes,Yes,Type 1
+P173,170,239,7.6,216,Yes,Likely Diabetes,Non-binary,Illinois,146,95,24.1,49,None,No,No,34,Yes,No,No,No,Yes,Type 2
+P174,175,246,6.2,130,Yes,Likely Diabetes,Male,North Carolina,119,74,33.2,74,Moderate,Sometimes,No,48,Yes,Yes,No,Yes,Yes,Type 2
+P175,119,175,8.2,195,Yes,Likely Diabetes,Non-binary,California,115,87,41.2,51,None,No,No,14,No,No,No,No,Yes,Type 2
+P176,149,108,7.3,103,Yes,Likely Diabetes,Male,Florida,159,108,40.6,65,None,Sometimes,No,27,No,Yes,Yes,No,Yes,Type 2
+P177,183,127,7.3,101,No,Likely Diabetes,Male,New York,157,104,43.1,37,Moderate,Sometimes,No,15,Yes,No,Yes,No,No,Type 2
+P178,185,227,7.1,176,No,Likely Diabetes,Male,Texas,145,77,28.2,56,Moderate,No,No,6,Yes,Yes,Yes,No,No,Type 2
+P179,131,151,7.1,101,No,Likely Diabetes,Female,Ohio,130,61,26.9,77,Intense,No,Yes,62,Yes,No,No,Yes,No,Type 2
+P180,162,182,8.4,230,No,Likely Diabetes,Female,Pennsylvania,175,72,38.4,19,Moderate,Sometimes,No,14,No,No,No,No,Yes,Type 2
+P181,87,210,5.3,114,Yes,Likely Diabetes,Male,North Carolina,160,104,29.9,18,Light,Sometimes,No,8,Yes,Yes,Yes,No,Yes,Type 2
+P182,85,243,6.4,134,No,Likely Diabetes,Non-binary,Texas,109,74,20.8,68,Moderate,No,No,37,Yes,No,No,No,Yes,Type 2
+P183,89,216,5.2,211,Yes,Likely Diabetes,Male,Florida,133,79,26,77,Intense,Yes,No,51,Yes,No,Yes,No,Yes,Type 2
+P184,174,168,8.3,236,Yes,Likely Diabetes,Non-binary,Georgia,164,88,29.6,53,Intense,No,No,17,No,Yes,No,No,Yes,Type 2
+P185,203,198,6.1,144,Yes,Likely Diabetes,Male,New York,95,101,26.3,41,Intense,Sometimes,No,29,No,Yes,No,No,Yes,Type 2
+P186,98,239,9,189,Yes,Likely Diabetes,Non-binary,Ohio,117,88,27.3,71,Moderate,No,No,46,No,Yes,Yes,Yes,No,Type 2
+P187,187,124,7.3,225,Yes,Likely Diabetes,Female,New York,133,62,26.3,44,Moderate,Yes,Yes,23,No,No,Yes,No,Yes,Type 2
+P188,111,222,8.6,208,No,Likely Diabetes,Non-binary,Texas,151,78,19.6,19,None,No,No,6,Yes,No,Yes,No,Yes,Type 2
+P189,93,152,9.4,142,Yes,Likely Diabetes,Male,New York,175,62,35.4,48,None,Sometimes,No,41,Yes,Yes,No,No,No,Type 2
+P190,163,243,8.7,121,Yes,Likely Diabetes,Female,Georgia,128,73,34.3,74,Light,No,No,23,Yes,No,No,Yes,Yes,Type 2
+P191,99,156,8.9,140,Yes,Likely Diabetes,Non-binary,Texas,135,99,35.8,31,None,Sometimes,No,30,Yes,No,Yes,Yes,No,Type 2
+P192,174,138,6.7,133,No,Likely Diabetes,Non-binary,Ohio,167,63,23.6,19,Light,Sometimes,No,11,Yes,No,Yes,No,No,Type 2
+P193,126,208,7.4,171,Yes,Likely Diabetes,Non-binary,California,107,70,26.3,46,Intense,No,No,20,Yes,No,Yes,No,No,Type 2
+P194,208,141,6,235,No,Likely Diabetes,Non-binary,Pennsylvania,164,90,34.9,32,None,Sometimes,No,5,Yes,No,No,No,Yes,Type 2
+P195,161,241,5.7,239,Yes,Likely Diabetes,Non-binary,Texas,100,102,34.4,29,Moderate,Sometimes,No,16,No,No,No,No,No,Type 2
+P196,135,221,7.2,126,No,Likely Diabetes,Female,Michigan,178,91,31.9,54,None,Yes,Yes,28,No,Yes,Yes,No,Yes,Gestational
+P197,147,232,7.6,185,Yes,Likely Diabetes,Female,Georgia,146,86,27.8,45,Light,Yes,No,38,No,No,No,No,No,Type 2
+P198,180,174,6.4,145,No,Likely Diabetes,Female,Texas,97,89,42.7,37,None,Yes,Yes,12,No,Yes,No,Yes,Yes,Gestational
+P199,187,245,7.5,194,No,Likely Diabetes,Female,Texas,175,102,27.5,78,Intense,Yes,No,22,Yes,Yes,Yes,No,Yes,Type 2
+P200,197,175,9,148,Yes,Likely Diabetes,Male,Michigan,157,61,30.6,56,Moderate,Sometimes,No,52,No,Yes,Yes,Yes,Yes,Type 2
+P201,136,108,7.4,220,Yes,Likely Diabetes,Female,Ohio,143,108,36.5,41,Light,No,No,9,Yes,No,No,No,Yes,Type 2
+P202,209,173,8.2,245,Yes,Likely Diabetes,Non-binary,Texas,170,68,32.9,38,Moderate,Sometimes,No,30,No,No,No,No,No,Type 2
+P203,180,244,8.6,124,Yes,Likely Diabetes,Non-binary,Pennsylvania,141,87,27.7,27,Moderate,Sometimes,No,26,Yes,Yes,Yes,No,No,Type 2
+P204,88,106,9.4,182,Yes,Likely Diabetes,Female,New York,149,90,30,63,Light,Sometimes,Yes,17,No,Yes,Yes,No,No,Type 2
+P205,178,240,7.6,186,No,Likely Diabetes,Non-binary,Ohio,158,93,39.6,31,Moderate,No,No,23,Yes,Yes,Yes,No,Yes,Type 2
+P206,185,236,8.6,224,Yes,Likely Diabetes,Female,Pennsylvania,159,74,25.9,54,Moderate,Yes,No,33,Yes,No,No,No,No,Type 2
+P207,107,126,9.3,165,Yes,Likely Diabetes,Non-binary,Ohio,175,107,22.3,35,None,Sometimes,No,7,No,Yes,Yes,Yes,Yes,Type 1
+P208,187,221,9.2,138,Yes,Likely Diabetes,Male,Pennsylvania,161,84,26.8,41,Moderate,Sometimes,No,30,Yes,No,Yes,No,No,Type 2
+P209,193,104,5.5,183,Yes,Likely Diabetes,Male,Georgia,109,95,41,31,Moderate,Yes,No,12,No,Yes,No,Yes,No,Type 1
+P210,99,128,6.7,248,No,Likely Diabetes,Female,Pennsylvania,126,67,20.9,51,Moderate,Sometimes,No,16,No,Yes,No,No,Yes,Type 2
+P211,127,182,6.3,113,Yes,Likely Diabetes,Female,Illinois,162,68,44.8,75,Moderate,No,No,6,No,Yes,Yes,Yes,No,Type 1
+P212,113,235,5.2,237,No,Likely Diabetes,Female,Pennsylvania,112,96,32.8,29,Light,Sometimes,No,15,No,Yes,Yes,Yes,Yes,Type 1
+P213,120,208,7.8,126,No,Likely Diabetes,Non-binary,California,177,107,44.6,39,Intense,Sometimes,No,32,No,No,No,No,Yes,Type 2
+P214,97,164,8.3,93,No,Likely Diabetes,Female,California,137,104,43.4,73,None,Yes,No,6,Yes,Yes,Yes,No,Yes,Type 2
+P215,116,185,8.8,197,No,Likely Diabetes,Male,North Carolina,129,98,30.5,23,Moderate,Sometimes,No,9,No,Yes,Yes,No,Yes,Type 2
+P216,155,244,5.4,215,Yes,Likely Diabetes,Non-binary,Illinois,172,91,23.8,53,Moderate,Sometimes,No,11,No,Yes,No,Yes,No,Type 1
+P217,143,170,8.9,109,No,Likely Diabetes,Female,Illinois,152,76,22.9,62,Light,No,No,30,No,Yes,Yes,No,Yes,Type 2
+P218,199,144,7.8,241,Yes,Likely Diabetes,Non-binary,New York,127,94,24.9,53,Intense,Yes,No,30,Yes,Yes,No,Yes,Yes,Type 1
+P219,170,231,8.1,139,Yes,Likely Diabetes,Non-binary,Illinois,108,96,37.3,39,Moderate,Yes,No,28,No,Yes,No,No,Yes,Type 2
+P220,112,135,9.1,185,No,Likely Diabetes,Female,New York,128,78,25.7,31,Light,No,No,16,No,No,Yes,No,No,Type 2
+P221,150,169,7.7,194,No,Likely Diabetes,Non-binary,North Carolina,155,103,27.5,33,None,Sometimes,No,20,No,No,Yes,No,No,Type 2
+P222,126,118,6.4,253,No,Likely Diabetes,Male,North Carolina,98,88,30.4,78,None,Yes,No,27,Yes,Yes,No,No,No,Type 2
+P223,129,207,8.7,206,Yes,Likely Diabetes,Male,Georgia,153,66,42.7,53,Moderate,Yes,No,44,Yes,Yes,No,No,No,Type 2
+P224,146,190,6.5,187,Yes,Likely Diabetes,Non-binary,California,123,87,23.5,73,Moderate,Sometimes,No,64,Yes,No,No,No,Yes,Type 2
+P225,141,189,5,155,No,Likely Diabetes,Female,Pennsylvania,177,68,18.6,42,Intense,Sometimes,Yes,13,No,Yes,No,No,Yes,Gestational
+P226,201,118,8.7,168,Yes,Likely Diabetes,Non-binary,Pennsylvania,100,87,20.1,49,Intense,Yes,No,36,No,Yes,Yes,No,Yes,Type 2
+P227,90,138,6.4,251,No,Prediabetes,Male,Michigan,143,65,42.5,50,Moderate,Sometimes,No,19,Yes,Yes,No,No,Yes,Prediabetes
+P228,112,225,8.4,253,No,Likely Diabetes,Non-binary,Michigan,134,88,35.7,62,Light,Yes,No,41,Yes,Yes,Yes,Yes,No,Type 2
+P229,112,240,6.5,95,Yes,Likely Diabetes,Non-binary,Florida,177,76,25.7,53,Intense,Sometimes,No,17,Yes,No,Yes,No,Yes,Type 2
+P230,192,225,8.8,128,Yes,Likely Diabetes,Male,Ohio,159,75,23.2,37,Moderate,Sometimes,No,9,Yes,Yes,Yes,No,No,Type 2
+P231,128,157,5.8,259,Yes,Likely Diabetes,Non-binary,Georgia,163,82,26.3,35,Intense,No,No,15,No,No,Yes,No,Yes,Type 2
+P232,168,247,9.4,204,Yes,Likely Diabetes,Non-binary,Florida,121,90,21.5,55,Moderate,Sometimes,No,14,No,Yes,No,Yes,Yes,Type 1
+P233,114,160,8.5,214,No,Likely Diabetes,Female,Florida,174,62,43.5,20,None,No,Yes,8,Yes,Yes,Yes,Yes,Yes,Gestational
+P234,146,226,5.3,101,Yes,Likely Diabetes,Female,Texas,100,80,39.3,40,Moderate,Sometimes,No,17,Yes,No,Yes,No,No,Type 2
+P235,159,204,7.5,220,No,Likely Diabetes,Male,Texas,107,85,30.8,49,None,Yes,No,45,Yes,Yes,Yes,No,No,Type 2
+P236,206,100,9.4,107,Yes,Likely Diabetes,Male,Florida,158,95,41.4,62,Intense,Yes,No,57,No,No,No,Yes,No,Type 2
+P237,203,230,7,129,No,Likely Diabetes,Male,Illinois,156,101,25.1,76,Moderate,Sometimes,No,54,Yes,Yes,No,No,Yes,Type 2
+P238,176,191,5.7,110,Yes,Likely Diabetes,Female,Ohio,113,96,37.5,33,Intense,Sometimes,No,19,Yes,No,Yes,No,No,Type 2
+P239,173,212,7.1,232,Yes,Likely Diabetes,Male,Georgia,170,81,41.2,76,None,Yes,No,11,Yes,Yes,Yes,No,Yes,Type 2
+P240,187,155,7.2,188,Yes,Likely Diabetes,Male,Florida,174,101,28,22,Moderate,Sometimes,No,12,No,No,Yes,Yes,Yes,Type 2
+P241,146,216,8.3,115,No,Likely Diabetes,Male,Pennsylvania,137,71,38.6,21,Intense,No,No,7,No,Yes,No,Yes,No,Type 1
+P242,181,233,8.1,97,No,Likely Diabetes,Female,Ohio,168,101,26.3,38,None,No,No,19,No,No,No,No,Yes,Type 2
+P243,85,157,6.7,189,No,Likely Diabetes,Non-binary,Texas,114,72,26.4,57,Intense,No,No,52,Yes,Yes,No,Yes,No,Type 2
+P244,205,143,5.8,176,Yes,Likely Diabetes,Male,Pennsylvania,162,70,21.3,68,Light,No,No,40,Yes,No,No,Yes,Yes,Type 2
+P245,111,160,7.8,131,Yes,Likely Diabetes,Non-binary,Texas,138,75,30.2,31,None,No,No,25,Yes,Yes,Yes,No,Yes,Type 2
+P246,146,146,6.8,103,Yes,Likely Diabetes,Male,Texas,117,67,37.8,56,None,Sometimes,No,10,No,No,No,No,No,Type 2
+P247,205,248,5.4,167,Yes,Likely Diabetes,Non-binary,Ohio,96,99,43.4,48,None,Sometimes,No,5,Yes,Yes,No,Yes,Yes,Type 1
+P248,200,179,9,91,Yes,Likely Diabetes,Female,Texas,116,99,34.5,31,Moderate,No,No,8,Yes,Yes,Yes,Yes,No,Type 1
+P249,161,217,8,208,No,Likely Diabetes,Female,North Carolina,151,104,41.4,23,Moderate,Sometimes,No,15,No,Yes,Yes,Yes,Yes,Type 1
+P250,189,246,8,126,No,Likely Diabetes,Male,California,166,61,40.3,29,Moderate,Sometimes,No,16,No,Yes,No,Yes,No,Type 1
+P251,87,119,8.7,158,No,Likely Diabetes,Non-binary,North Carolina,101,89,23.1,33,Light,No,No,30,Yes,Yes,No,No,Yes,Type 2
+P252,187,245,7.3,255,No,Likely Diabetes,Female,California,172,89,31.4,34,Light,Sometimes,No,33,Yes,No,Yes,No,Yes,Type 2
+P253,154,146,8.6,130,Yes,Likely Diabetes,Male,Michigan,150,71,21.6,62,None,Sometimes,No,41,Yes,No,No,No,Yes,Type 2
+P254,156,148,7.1,151,Yes,Likely Diabetes,Male,Michigan,161,69,36.6,40,Light,Sometimes,No,27,No,Yes,No,No,Yes,Type 2
+P255,111,113,5.1,149,Yes,Prediabetes,Female,Texas,110,103,43.7,31,Intense,No,No,25,No,No,Yes,No,No,Prediabetes
+P256,93,242,6.7,214,No,Likely Diabetes,Female,Georgia,177,70,22.1,78,None,Sometimes,No,44,Yes,No,Yes,Yes,Yes,Type 2
+P257,146,100,7.1,200,Yes,Likely Diabetes,Male,Georgia,145,74,37.9,24,None,Yes,No,17,Yes,Yes,Yes,No,Yes,Type 2
+P258,121,216,8.2,103,Yes,Likely Diabetes,Non-binary,California,176,75,35.3,63,Intense,Yes,No,27,No,No,No,No,Yes,Type 2
+P259,181,153,5.3,173,Yes,Likely Diabetes,Non-binary,Pennsylvania,174,76,34,49,None,No,No,20,No,No,Yes,No,Yes,Type 2
+P260,135,217,5.5,219,Yes,Likely Diabetes,Non-binary,Ohio,166,85,28.8,32,Light,Yes,No,8,Yes,No,Yes,Yes,No,Type 2
+P261,190,102,6,159,No,Likely Diabetes,Male,Texas,106,61,27.9,61,Moderate,No,No,44,Yes,Yes,No,No,No,Type 2
+P262,128,243,6.1,234,No,Likely Diabetes,Female,Ohio,147,109,19.7,34,Intense,Yes,No,20,Yes,No,No,No,Yes,Type 2
+P263,108,111,8.2,212,Yes,Likely Diabetes,Male,North Carolina,169,71,24.3,58,Light,Yes,No,35,Yes,Yes,Yes,No,No,Type 2
+P264,163,173,6,178,No,Likely Diabetes,Female,Georgia,99,85,18.9,71,Intense,Yes,Yes,57,No,Yes,Yes,Yes,Yes,Gestational
+P265,143,115,7.8,117,No,Likely Diabetes,Non-binary,Illinois,121,82,33.9,64,Intense,No,No,46,No,Yes,Yes,No,Yes,Type 2
+P266,202,201,7.1,155,Yes,Likely Diabetes,Non-binary,North Carolina,106,77,21.3,61,None,No,No,29,No,No,No,No,No,Type 2
+P267,116,216,7.5,252,Yes,Likely Diabetes,Female,North Carolina,111,91,41.6,51,None,Sometimes,No,48,Yes,No,No,No,Yes,Type 2
+P268,180,107,8.7,94,Yes,Likely Diabetes,Female,California,100,108,32.4,22,Light,No,No,16,No,No,Yes,No,No,Type 2
+P269,172,221,6.7,257,Yes,Likely Diabetes,Male,New York,99,97,37,62,Intense,Yes,No,30,Yes,No,No,Yes,No,Type 2
+P270,189,191,8.4,253,No,Likely Diabetes,Non-binary,North Carolina,151,106,29.4,44,None,Yes,No,41,Yes,Yes,No,Yes,Yes,Type 2
+P271,136,189,6.8,134,Yes,Likely Diabetes,Male,Texas,122,62,33.4,69,None,No,No,13,Yes,Yes,No,No,No,Type 2
+P272,197,235,6.5,240,No,Likely Diabetes,Male,Florida,172,97,43.5,40,Intense,No,No,16,Yes,Yes,No,No,No,Type 2
+P273,146,159,9.3,136,Yes,Likely Diabetes,Male,Florida,163,62,20.7,57,Light,No,No,9,No,Yes,Yes,Yes,Yes,Type 1
+P274,197,127,5.7,120,Yes,Likely Diabetes,Non-binary,Texas,153,89,25.2,76,Light,Sometimes,No,58,Yes,No,Yes,No,No,Type 2
+P275,142,200,5.2,228,Yes,Likely Diabetes,Male,New York,127,60,39.2,31,Intense,Yes,No,24,Yes,No,No,No,Yes,Type 2
+P276,136,140,8.4,99,Yes,Likely Diabetes,Male,New York,156,89,21.1,32,Light,Sometimes,No,26,Yes,Yes,No,Yes,No,Type 1
+P277,96,244,5.1,207,Yes,Likely Diabetes,Male,California,144,104,20.5,60,None,Sometimes,No,32,Yes,Yes,No,No,No,Type 2
+P278,123,240,8.7,103,No,Likely Diabetes,Male,Georgia,113,91,28.1,50,Intense,Yes,No,39,Yes,Yes,Yes,No,Yes,Type 2
+P279,86,145,6.9,169,Yes,Likely Diabetes,Male,Ohio,163,87,20.9,70,None,Yes,No,62,Yes,Yes,No,No,Yes,Type 2
+P280,87,134,9.1,182,No,Likely Diabetes,Male,New York,160,80,34,48,Moderate,No,No,18,No,No,No,No,No,Type 2
+P281,197,233,8.2,99,Yes,Likely Diabetes,Non-binary,Illinois,141,105,24.5,52,Moderate,No,No,15,Yes,No,Yes,No,Yes,Type 2
+P282,185,181,7.7,165,Yes,Likely Diabetes,Male,California,133,72,42.2,34,Light,Sometimes,No,14,Yes,No,Yes,Yes,Yes,Type 2
+P283,197,214,9.3,183,Yes,Likely Diabetes,Female,Michigan,162,86,39.3,45,Moderate,No,No,42,Yes,Yes,No,No,Yes,Type 2
+P284,140,146,6.7,194,Yes,Likely Diabetes,Male,Pennsylvania,127,95,37,36,None,No,No,8,No,Yes,No,Yes,Yes,Type 1
+P285,165,109,9.3,90,Yes,Likely Diabetes,Male,Michigan,107,66,34.8,63,Moderate,Yes,No,57,Yes,Yes,Yes,No,Yes,Type 2
+P286,143,155,5.4,222,Yes,Likely Diabetes,Non-binary,California,178,81,41.4,71,None,Yes,No,37,Yes,No,No,Yes,Yes,Type 2
+P287,197,129,7.1,109,Yes,Likely Diabetes,Non-binary,North Carolina,148,69,24.4,79,Light,No,No,75,Yes,No,Yes,No,Yes,Type 2
+P288,86,208,6.1,97,Yes,Likely Diabetes,Female,Ohio,101,98,41.6,40,Light,Yes,No,12,Yes,Yes,Yes,No,No,Type 2
+P289,86,104,7.3,90,Yes,Likely Diabetes,Female,Pennsylvania,173,74,39.4,49,None,No,No,41,Yes,No,No,No,Yes,Type 2
+P290,176,218,5.6,146,Yes,Likely Diabetes,Non-binary,Michigan,108,74,38.3,57,Moderate,Yes,No,55,No,Yes,No,Yes,Yes,Type 2
+P291,138,132,8.8,153,No,Likely Diabetes,Non-binary,Pennsylvania,113,63,33.4,30,Light,Yes,No,14,No,No,No,No,Yes,Type 2
+P292,171,217,8.8,207,No,Likely Diabetes,Male,Illinois,148,91,25,76,Intense,Yes,No,47,Yes,No,No,No,Yes,Type 2
+P293,185,164,9.3,117,Yes,Likely Diabetes,Non-binary,Illinois,114,82,29.7,37,Light,Yes,No,19,No,No,Yes,No,Yes,Type 2
+P294,180,245,5.5,210,Yes,Likely Diabetes,Female,Illinois,123,65,39.5,52,Moderate,No,No,42,No,No,No,Yes,Yes,Type 2
+P295,181,110,7.7,196,No,Likely Diabetes,Male,California,118,83,19.3,22,Intense,Sometimes,No,19,Yes,Yes,Yes,No,Yes,Type 2
+P296,85,184,7,254,No,Likely Diabetes,Female,Ohio,176,79,39.2,26,Moderate,Yes,No,9,Yes,Yes,Yes,No,No,Type 2
+P297,103,125,6.4,254,Yes,Likely Diabetes,Male,California,157,96,24.9,46,None,No,No,33,Yes,Yes,Yes,Yes,No,Type 2
+P298,86,162,6.5,138,No,Likely Diabetes,Non-binary,Florida,168,79,22.3,23,Intense,No,No,23,Yes,Yes,Yes,No,No,Type 2
+P299,137,185,6.7,209,Yes,Likely Diabetes,Female,North Carolina,151,71,21.6,42,Moderate,Yes,No,14,No,No,Yes,No,No,Type 2
+P300,128,158,8.1,133,Yes,Likely Diabetes,Male,North Carolina,102,92,19.2,48,Intense,Sometimes,No,16,No,No,Yes,No,No,Type 2
+P301,174,126,7.6,145,No,Likely Diabetes,Male,Illinois,156,87,32.4,39,Moderate,Yes,No,8,No,Yes,Yes,No,Yes,Type 2
+P302,116,197,7,245,Yes,Likely Diabetes,Non-binary,Florida,123,67,24.3,19,Intense,No,No,19,No,No,Yes,No,No,Type 2
+P303,154,204,5.2,200,No,Likely Diabetes,Non-binary,New York,168,60,44.7,62,Moderate,Sometimes,No,22,Yes,Yes,No,No,Yes,Type 2
+P304,116,198,5.2,223,No,Prediabetes,Non-binary,New York,111,96,33.7,22,None,No,No,20,Yes,Yes,Yes,No,No,Prediabetes
+P305,203,228,4.8,197,Yes,Likely Diabetes,Female,Illinois,160,81,22.2,77,Intense,Yes,No,40,No,Yes,Yes,No,No,Type 2
+P306,152,248,9.3,237,Yes,Likely Diabetes,Male,Michigan,100,65,36.8,44,Intense,Sometimes,No,29,Yes,Yes,No,No,Yes,Type 2
+P307,139,154,4.8,203,Yes,Likely Diabetes,Non-binary,California,152,80,42.3,42,Intense,No,No,27,No,Yes,No,No,Yes,Type 2
+P308,159,105,5.3,167,Yes,Likely Diabetes,Female,Illinois,163,91,38.2,25,Intense,No,No,16,No,Yes,No,Yes,Yes,Type 1
+P309,140,194,6.3,219,No,Likely Diabetes,Female,Georgia,122,94,20.5,72,None,No,No,40,No,Yes,Yes,No,No,Type 2
+P310,207,232,8.6,126,Yes,Likely Diabetes,Female,Pennsylvania,156,74,42.2,18,Intense,Yes,No,9,No,No,No,No,No,Type 2
+P311,101,201,9.3,109,Yes,Likely Diabetes,Non-binary,North Carolina,135,64,39.5,37,Light,Sometimes,No,7,Yes,Yes,Yes,Yes,No,Type 1
+P312,122,102,8.5,115,No,Likely Diabetes,Non-binary,New York,163,105,22.7,61,None,Yes,No,13,No,Yes,Yes,Yes,Yes,Type 1
+P313,108,122,8,118,Yes,Likely Diabetes,Male,Texas,176,109,19.9,40,Light,Yes,No,22,No,Yes,Yes,No,No,Type 2
+P314,153,152,7.3,90,No,Likely Diabetes,Male,New York,178,107,33.3,49,Intense,Yes,No,47,Yes,No,No,No,Yes,Type 2
+P315,200,182,5.2,208,Yes,Likely Diabetes,Non-binary,North Carolina,135,65,22.6,28,Moderate,Sometimes,No,7,No,Yes,Yes,No,No,Type 2
+P316,182,244,9.3,124,No,Likely Diabetes,Female,Pennsylvania,143,84,40.6,56,Light,Yes,No,38,Yes,No,Yes,No,Yes,Type 2
+P317,154,184,8.4,148,Yes,Likely Diabetes,Female,North Carolina,143,105,28,64,Intense,Yes,No,45,No,No,Yes,Yes,Yes,Type 2
+P318,170,177,7.8,158,Yes,Likely Diabetes,Female,Texas,170,99,42.7,71,Light,Yes,No,8,Yes,No,No,No,Yes,Type 2
+P319,95,209,8.4,250,Yes,Likely Diabetes,Male,Illinois,165,88,33.5,41,Intense,Yes,No,33,Yes,No,No,No,No,Type 2
+P320,196,100,8.2,101,Yes,Likely Diabetes,Female,Florida,97,66,23.3,28,Intense,No,No,13,Yes,Yes,Yes,No,No,Type 2
+P321,100,150,7.8,109,No,Likely Diabetes,Male,Texas,104,99,22.2,46,Intense,Yes,No,19,No,Yes,No,Yes,Yes,Type 1
+P322,181,103,9.4,132,No,Likely Diabetes,Male,North Carolina,129,72,33.8,71,Moderate,No,No,32,Yes,Yes,No,No,Yes,Type 2
+P323,157,212,9,215,No,Likely Diabetes,Female,North Carolina,174,97,38.7,43,Light,Yes,No,20,Yes,No,No,Yes,No,Type 2
+P324,208,131,7.8,139,Yes,Likely Diabetes,Female,Georgia,96,77,39.2,33,None,Sometimes,No,16,Yes,Yes,Yes,No,Yes,Type 2
+P325,143,133,8.1,118,Yes,Likely Diabetes,Non-binary,Georgia,118,61,25.8,52,None,No,No,9,No,Yes,No,No,No,Type 2
+P326,154,191,5,128,Yes,Likely Diabetes,Non-binary,Ohio,168,67,23.9,37,None,No,No,5,Yes,No,Yes,No,Yes,Type 2
+P327,164,194,7.9,240,Yes,Likely Diabetes,Female,Georgia,132,70,18.9,63,None,No,No,43,Yes,Yes,No,Yes,Yes,Type 2
+P328,177,171,5,127,No,Likely Diabetes,Male,California,116,92,36.5,20,Intense,No,No,20,No,No,Yes,No,No,Type 2
+P329,87,138,7.6,173,Yes,Likely Diabetes,Male,Florida,120,97,20.5,18,Light,Sometimes,No,14,Yes,No,Yes,No,No,Type 2
+P330,104,217,9.5,240,Yes,Likely Diabetes,Male,Pennsylvania,137,107,29.7,75,Light,Yes,No,21,No,Yes,Yes,No,Yes,Type 2
+P331,208,102,7.4,217,Yes,Likely Diabetes,Male,Texas,149,86,34.4,70,Moderate,No,No,39,Yes,Yes,No,No,Yes,Type 2
+P332,143,222,7,215,No,Likely Diabetes,Male,North Carolina,133,79,43.3,64,Light,Sometimes,No,50,No,Yes,Yes,No,No,Type 2
+P333,120,149,6.3,134,No,Prediabetes,Non-binary,Ohio,123,71,26.8,18,Light,No,No,14,Yes,No,No,No,Yes,Prediabetes
+P334,103,111,5.4,141,No,Prediabetes,Female,Ohio,114,102,25.1,34,Light,Yes,No,26,Yes,No,Yes,No,No,Prediabetes
+P335,174,153,8.2,169,Yes,Likely Diabetes,Non-binary,Pennsylvania,135,90,35.8,19,Moderate,No,No,11,No,No,No,No,Yes,Type 2
+P336,151,232,5.7,213,Yes,Likely Diabetes,Male,Florida,148,86,34.9,46,None,Sometimes,No,30,Yes,No,No,Yes,Yes,Type 2
+P337,103,156,5.3,208,No,Prediabetes,Male,Texas,114,91,27.3,37,Light,Yes,No,27,No,No,No,No,No,Prediabetes
+P338,104,244,6.8,97,No,Likely Diabetes,Male,New York,113,69,43.1,23,Moderate,Sometimes,No,8,Yes,Yes,No,No,No,Type 2
+P339,180,211,8.5,174,Yes,Likely Diabetes,Male,Georgia,178,62,40.9,25,Moderate,Yes,No,21,Yes,Yes,No,Yes,Yes,Type 1
+P340,155,146,8.3,218,No,Likely Diabetes,Female,Illinois,160,104,24.4,46,Intense,Yes,No,13,Yes,No,Yes,No,No,Type 2
+P341,136,184,5.1,97,No,Likely Diabetes,Male,Ohio,124,86,24.8,65,Moderate,Yes,No,8,No,Yes,No,No,Yes,Type 2
+P342,189,241,6.9,246,No,Likely Diabetes,Female,Georgia,147,94,32.1,68,None,No,No,11,Yes,Yes,Yes,No,Yes,Type 2
+P343,117,165,7.3,185,No,Likely Diabetes,Male,Georgia,128,90,39,50,Light,Sometimes,No,27,Yes,No,No,No,No,Type 2
+P344,124,174,7.8,191,Yes,Likely Diabetes,Female,California,116,74,19.7,20,Moderate,Sometimes,No,6,Yes,Yes,No,Yes,No,Type 1
+P345,123,202,7.9,94,Yes,Likely Diabetes,Non-binary,Florida,161,75,36.9,77,None,Sometimes,No,53,Yes,No,Yes,No,No,Type 2
+P346,166,137,6.5,175,Yes,Likely Diabetes,Male,Illinois,100,72,35.7,52,Moderate,Yes,No,28,Yes,No,Yes,Yes,Yes,Type 2
+P347,188,149,7.4,123,No,Likely Diabetes,Female,New York,173,108,24.6,22,Moderate,No,No,12,No,Yes,Yes,No,Yes,Type 2
+P348,85,197,7.1,144,No,Likely Diabetes,Non-binary,North Carolina,121,94,36.6,44,Moderate,Yes,No,35,Yes,No,No,Yes,Yes,Type 2
+P349,95,181,9,208,No,Likely Diabetes,Male,California,104,70,43.4,61,Moderate,Sometimes,No,51,No,Yes,No,Yes,Yes,Type 2
+P350,176,129,7.3,247,Yes,Likely Diabetes,Male,Georgia,167,80,19.7,29,Moderate,No,No,19,Yes,Yes,No,No,No,Type 2
+P351,141,178,6.9,203,No,Likely Diabetes,Male,Georgia,142,70,27,37,None,No,No,28,No,Yes,No,No,Yes,Type 2
+P352,173,190,6.7,234,No,Likely Diabetes,Female,Michigan,164,89,30.1,62,Light,No,No,53,No,Yes,No,No,No,Type 2
+P353,134,151,7.5,115,No,Likely Diabetes,Female,Illinois,153,107,42.3,37,Light,Sometimes,No,30,Yes,Yes,Yes,No,Yes,Type 2
+P354,107,178,8.6,225,No,Likely Diabetes,Non-binary,Illinois,153,94,44,26,Light,No,No,20,No,Yes,Yes,Yes,Yes,Type 1
+P355,115,129,7.3,136,No,Likely Diabetes,Female,Michigan,96,81,30.3,56,Light,No,Yes,51,Yes,Yes,No,Yes,Yes,Type 2
+P356,178,205,7.9,202,Yes,Likely Diabetes,Female,Illinois,123,97,38.4,21,None,Yes,No,17,No,Yes,No,No,Yes,Type 2
+P357,126,150,8.3,165,Yes,Likely Diabetes,Male,Georgia,162,90,32.6,68,Intense,Yes,No,19,No,No,No,Yes,Yes,Type 2
+P358,183,180,7.2,161,Yes,Likely Diabetes,Male,Ohio,159,73,32.8,71,Intense,No,No,31,Yes,No,Yes,No,No,Type 2
+P359,91,232,6.8,178,Yes,Likely Diabetes,Male,Texas,177,83,25.9,36,None,No,No,8,Yes,Yes,Yes,No,Yes,Type 2
+P360,208,128,8.9,135,No,Likely Diabetes,Male,Georgia,120,109,24.2,55,None,Yes,No,20,Yes,Yes,Yes,No,No,Type 2
+P361,100,231,6.8,122,No,Likely Diabetes,Male,California,104,108,26.1,44,Moderate,Yes,No,34,Yes,Yes,Yes,No,Yes,Type 2
+P362,174,237,7,90,Yes,Likely Diabetes,Male,Florida,147,91,33.2,62,Moderate,Yes,No,48,Yes,Yes,Yes,No,No,Type 2
+P363,196,244,9.5,236,Yes,Likely Diabetes,Male,Michigan,173,95,19.3,60,Moderate,Sometimes,No,34,Yes,No,No,No,Yes,Type 2
+P364,205,173,4.8,120,No,Likely Diabetes,Non-binary,New York,153,91,42.5,30,Light,Sometimes,No,8,Yes,No,Yes,Yes,No,Type 2
+P365,200,116,5.7,231,Yes,Likely Diabetes,Non-binary,North Carolina,116,74,22.6,30,Moderate,Yes,No,7,No,Yes,No,Yes,Yes,Type 1
+P366,144,183,6.6,142,Yes,Likely Diabetes,Non-binary,New York,145,102,24.3,77,Intense,No,No,53,Yes,Yes,Yes,No,No,Type 2
+P367,197,168,9.2,137,Yes,Likely Diabetes,Non-binary,Georgia,142,94,32.2,74,Light,Yes,No,59,Yes,Yes,No,No,No,Type 2
+P368,86,133,5.1,158,Yes,Normal,Male,California,115,62,37.3,39,Moderate,Sometimes,No,25,No,No,Yes,No,Yes,None
+P369,85,105,4.8,194,Yes,Normal,Non-binary,Georgia,116,75,21,45,Light,No,No,8,Yes,Yes,Yes,No,Yes,None
+P370,132,152,5,179,Yes,Likely Diabetes,Male,Florida,124,64,26.9,69,Intense,Sometimes,No,48,Yes,No,Yes,Yes,Yes,Type 2
+P371,96,225,5.2,152,Yes,Likely Diabetes,Non-binary,Ohio,119,80,44.2,64,Moderate,No,No,35,Yes,No,No,No,No,Type 2
+P372,153,142,5,162,No,Likely Diabetes,Female,North Carolina,122,69,25.5,70,Intense,Sometimes,No,62,No,Yes,No,No,Yes,Type 2
+P373,121,214,7.1,250,Yes,Likely Diabetes,Non-binary,Florida,159,78,26.8,62,Intense,No,No,27,No,No,Yes,Yes,Yes,Type 2
+P374,116,210,7.5,258,No,Likely Diabetes,Non-binary,Michigan,139,84,40.7,39,Intense,No,No,24,Yes,No,Yes,No,Yes,Type 2
+P375,207,179,6.1,178,Yes,Likely Diabetes,Male,Michigan,162,63,19.8,60,Moderate,No,No,19,No,No,No,Yes,Yes,Type 2
+P376,203,194,6.7,102,Yes,Likely Diabetes,Non-binary,Georgia,101,88,30.8,36,None,No,No,27,Yes,Yes,Yes,No,No,Type 2
+P377,93,217,5.2,162,No,Likely Diabetes,Female,California,143,78,28.6,25,Moderate,Sometimes,No,20,No,Yes,Yes,No,Yes,Type 2
+P378,189,243,6.4,166,Yes,Likely Diabetes,Male,Florida,103,102,26.9,69,Intense,Sometimes,No,41,No,No,No,No,No,Type 2
+P379,183,107,7.3,248,Yes,Likely Diabetes,Male,Pennsylvania,130,61,26.1,25,Moderate,No,No,25,No,No,No,No,No,Type 2
+P380,103,231,8.2,157,Yes,Likely Diabetes,Non-binary,California,177,69,20.9,59,Intense,No,No,19,Yes,No,Yes,No,Yes,Type 2
+P381,132,203,4.8,187,No,Likely Diabetes,Male,Ohio,95,102,26.8,43,None,Sometimes,No,21,Yes,No,Yes,No,No,Type 2
+P382,164,231,7,214,Yes,Likely Diabetes,Male,Michigan,104,84,19.6,65,Light,No,No,54,Yes,No,No,No,Yes,Type 2
+P383,87,124,6.2,191,Yes,Prediabetes,Male,Georgia,130,79,39.2,68,None,No,No,41,No,No,Yes,No,No,Prediabetes
+P384,104,195,8.8,221,No,Likely Diabetes,Male,Illinois,167,107,29.1,43,None,No,No,17,Yes,Yes,Yes,No,Yes,Type 2
+P385,108,192,8.2,191,Yes,Likely Diabetes,Male,Michigan,140,78,30.3,40,Light,Yes,No,23,No,No,No,Yes,No,Type 2
+P386,138,160,7.6,108,No,Likely Diabetes,Male,North Carolina,126,82,42.2,60,Moderate,No,No,34,No,No,No,No,Yes,Type 2
+P387,204,221,6.1,171,No,Likely Diabetes,Female,Texas,126,83,35.9,30,Light,Yes,No,17,Yes,No,Yes,Yes,Yes,Type 2
+P388,117,150,9.1,230,No,Likely Diabetes,Non-binary,Illinois,100,70,18.7,45,Moderate,No,No,22,No,No,No,Yes,Yes,Type 2
+P389,108,246,5,112,Yes,Likely Diabetes,Female,Georgia,142,105,43.5,26,Moderate,Sometimes,No,18,No,Yes,No,No,Yes,Type 2
+P390,200,120,5.3,172,No,Likely Diabetes,Male,Pennsylvania,132,93,24.8,37,Intense,Yes,No,24,No,No,Yes,No,No,Type 2
+P391,159,104,6.6,198,Yes,Likely Diabetes,Male,Illinois,111,87,21.4,73,Intense,Yes,No,56,No,No,No,Yes,Yes,Type 2
+P392,197,191,5.4,164,Yes,Likely Diabetes,Non-binary,North Carolina,168,64,38.9,36,Light,No,No,23,No,Yes,Yes,No,No,Type 2
+P393,156,160,9.3,218,Yes,Likely Diabetes,Female,California,121,64,31.8,65,None,No,No,49,Yes,Yes,Yes,No,Yes,Type 2
+P394,120,121,8.6,177,No,Likely Diabetes,Non-binary,Pennsylvania,148,80,30,56,Light,Yes,No,48,No,Yes,No,No,No,Type 2
+P395,122,248,6,143,Yes,Likely Diabetes,Female,Michigan,144,71,25.1,68,Moderate,Sometimes,Yes,11,Yes,Yes,Yes,Yes,Yes,Gestational
+P396,188,169,7.6,178,Yes,Likely Diabetes,Male,Pennsylvania,129,109,33,29,Intense,Sometimes,No,29,No,Yes,Yes,No,Yes,Type 2
+P397,168,100,9.4,232,Yes,Likely Diabetes,Non-binary,Florida,179,63,25.8,32,Light,No,No,16,No,Yes,Yes,No,Yes,Type 2
+P398,183,232,9,154,No,Likely Diabetes,Non-binary,North Carolina,119,108,42.4,48,Light,Sometimes,No,8,Yes,No,Yes,No,No,Type 2
+P399,196,111,7.6,165,No,Likely Diabetes,Male,Illinois,122,101,24.2,72,Intense,Sometimes,No,38,No,No,No,Yes,Yes,Type 2
+P400,173,189,9,232,No,Likely Diabetes,Non-binary,Florida,109,79,41.9,31,Intense,No,No,6,Yes,No,No,Yes,No,Type 2
+P401,183,145,9.4,238,Yes,Likely Diabetes,Female,Pennsylvania,98,97,33.3,28,Intense,Sometimes,No,9,Yes,No,No,No,No,Type 2
+P402,109,133,8.3,236,Yes,Likely Diabetes,Female,Florida,167,84,40.5,43,Moderate,No,No,14,Yes,Yes,Yes,No,Yes,Type 2
+P403,177,177,5.1,149,No,Likely Diabetes,Female,New York,121,73,37.4,59,Intense,Yes,No,36,No,Yes,Yes,Yes,No,Type 2
+P404,102,144,6.7,182,Yes,Likely Diabetes,Female,North Carolina,120,70,37,44,None,No,No,17,No,No,Yes,Yes,Yes,Type 2
+P405,194,172,8.7,250,Yes,Likely Diabetes,Male,Ohio,113,91,27.1,28,Light,Yes,No,11,No,Yes,Yes,No,Yes,Type 2
+P406,166,125,5.9,138,No,Likely Diabetes,Non-binary,California,111,70,24.7,55,Intense,Yes,No,9,Yes,No,Yes,Yes,No,Type 2
+P407,150,146,8.7,124,No,Likely Diabetes,Female,Pennsylvania,137,77,24.1,51,Intense,Sometimes,No,14,No,No,No,No,No,Type 2
+P408,138,220,5.4,191,No,Likely Diabetes,Male,North Carolina,135,86,41.2,60,Moderate,Sometimes,No,14,No,No,No,Yes,No,Type 2
+P409,119,155,5,100,No,Prediabetes,Non-binary,Ohio,136,77,40.2,36,Moderate,Sometimes,No,10,Yes,No,No,Yes,Yes,Prediabetes
+P410,164,193,6.6,188,No,Likely Diabetes,Non-binary,Ohio,144,82,30.2,23,Light,No,No,23,Yes,Yes,Yes,No,Yes,Type 2
+P411,145,206,5,199,Yes,Likely Diabetes,Male,Georgia,178,70,22,63,None,Sometimes,No,25,Yes,Yes,No,No,Yes,Type 2
+P412,125,162,9.3,163,Yes,Likely Diabetes,Male,Florida,134,80,28.6,69,Light,Yes,No,12,No,No,Yes,No,No,Type 2
+P413,184,147,8.7,98,No,Likely Diabetes,Female,Ohio,133,103,34.9,55,Intense,Sometimes,No,5,No,Yes,Yes,No,Yes,Type 2
+P414,117,160,8.6,92,Yes,Likely Diabetes,Non-binary,New York,117,64,30.5,66,None,Sometimes,No,32,No,No,No,No,No,Type 2
+P415,152,180,7.8,174,No,Likely Diabetes,Non-binary,North Carolina,146,82,39.2,59,None,No,No,53,Yes,Yes,No,No,Yes,Type 2
+P416,117,125,5.8,115,Yes,Prediabetes,Male,Texas,141,100,44.9,45,None,No,No,43,No,No,Yes,Yes,Yes,Prediabetes
+P417,98,135,7.2,161,Yes,Likely Diabetes,Non-binary,Texas,157,84,23.6,18,None,Yes,No,18,Yes,No,Yes,No,Yes,Type 2
+P418,105,100,7.6,137,No,Likely Diabetes,Female,Pennsylvania,163,100,30.7,52,Light,No,No,25,Yes,No,Yes,No,Yes,Type 2
+P419,132,107,7.3,245,No,Likely Diabetes,Non-binary,Michigan,137,69,29.9,57,Moderate,Sometimes,No,34,No,Yes,No,No,Yes,Type 2
+P420,104,212,6,206,No,Likely Diabetes,Male,Florida,142,81,26.6,25,Moderate,No,No,25,Yes,Yes,Yes,Yes,No,Type 1
+P421,204,198,7.2,243,Yes,Likely Diabetes,Male,Michigan,128,78,23.7,76,Intense,Yes,No,53,No,No,No,No,No,Type 2
+P422,92,146,7.1,242,No,Likely Diabetes,Female,Ohio,134,60,20.2,69,Moderate,Sometimes,No,13,Yes,Yes,Yes,No,Yes,Type 2
+P423,91,226,9.5,101,Yes,Likely Diabetes,Female,North Carolina,169,66,42,71,Moderate,Yes,No,21,No,No,Yes,No,Yes,Type 2
+P424,151,155,9,222,Yes,Likely Diabetes,Non-binary,Pennsylvania,155,63,29.6,64,Moderate,No,No,9,Yes,No,Yes,Yes,Yes,Type 2
+P425,101,113,7,137,Yes,Likely Diabetes,Non-binary,Illinois,144,60,31.7,73,Moderate,No,No,62,Yes,No,No,Yes,No,Type 2
+P426,117,127,7.7,126,Yes,Likely Diabetes,Male,Ohio,161,74,42.8,24,Intense,Yes,No,24,Yes,No,Yes,No,Yes,Type 2
+P427,132,177,8.3,133,Yes,Likely Diabetes,Female,Florida,156,99,39.1,28,Light,Sometimes,No,12,Yes,Yes,No,Yes,No,Type 1
+P428,160,229,5,104,No,Likely Diabetes,Female,Texas,152,71,22,56,None,No,No,42,No,No,No,No,Yes,Type 2
+P429,143,208,9,132,No,Likely Diabetes,Female,Georgia,127,81,33.5,78,Moderate,No,No,47,Yes,No,No,No,Yes,Type 2
+P430,199,113,8.8,176,No,Likely Diabetes,Non-binary,North Carolina,169,81,30.2,21,Light,Sometimes,No,8,No,Yes,No,Yes,No,Type 1
+P431,170,155,6.9,159,Yes,Likely Diabetes,Female,California,110,109,39.6,42,Moderate,No,No,37,No,No,No,No,Yes,Type 2
+P432,203,214,6.6,135,No,Likely Diabetes,Male,Michigan,176,106,37.7,29,Moderate,Yes,No,17,Yes,Yes,No,No,Yes,Type 2
+P433,106,106,6.1,197,No,Prediabetes,Male,Pennsylvania,142,76,36.8,43,None,No,No,18,Yes,Yes,No,No,Yes,Prediabetes
+P434,194,102,7,212,No,Likely Diabetes,Non-binary,Michigan,104,88,27.5,55,None,No,No,37,No,Yes,Yes,Yes,Yes,Type 2
+P435,114,210,5,110,Yes,Likely Diabetes,Non-binary,North Carolina,176,105,39.8,63,None,Sometimes,No,33,No,No,Yes,Yes,Yes,Type 2
+P436,122,206,8.8,240,Yes,Likely Diabetes,Female,Michigan,132,73,19.9,29,Moderate,Yes,No,15,No,Yes,Yes,No,No,Type 2
+P437,186,117,5,196,Yes,Likely Diabetes,Non-binary,North Carolina,113,109,22.7,60,Moderate,Sometimes,No,53,Yes,No,Yes,Yes,No,Type 2
+P438,193,137,6.3,169,Yes,Likely Diabetes,Male,Michigan,130,79,27.4,68,Moderate,No,No,40,No,No,Yes,No,Yes,Type 2
+P439,135,214,9.2,136,Yes,Likely Diabetes,Female,New York,153,109,20.5,70,None,No,No,14,Yes,Yes,No,Yes,No,Type 1
+P440,138,114,8.3,206,No,Likely Diabetes,Male,Illinois,157,107,24.7,54,Intense,Sometimes,No,35,No,Yes,Yes,No,Yes,Type 2
+P441,92,218,6.1,213,Yes,Likely Diabetes,Female,Ohio,171,92,40.5,63,Light,Sometimes,No,10,No,No,Yes,No,Yes,Type 2
+P442,111,127,6,232,Yes,Likely Diabetes,Non-binary,Ohio,140,102,43.6,70,Intense,Sometimes,No,61,Yes,Yes,No,No,Yes,Type 2
+P443,111,138,4.8,114,Yes,Prediabetes,Female,Florida,97,74,26.6,41,Moderate,Yes,No,5,Yes,No,Yes,Yes,Yes,Prediabetes
+P444,182,116,8.1,125,Yes,Likely Diabetes,Female,California,168,71,25.5,33,Moderate,No,Yes,11,Yes,Yes,Yes,No,Yes,Type 2
+P445,105,185,5,140,Yes,Prediabetes,Male,California,159,99,25.9,74,Intense,Sometimes,No,62,Yes,Yes,Yes,Yes,No,Prediabetes
+P446,114,225,7.3,104,Yes,Likely Diabetes,Male,Florida,102,79,25.9,30,Moderate,No,No,25,No,No,Yes,No,Yes,Type 2
+P447,181,143,9.3,157,Yes,Likely Diabetes,Female,Georgia,145,89,19.5,42,Light,Yes,No,32,Yes,Yes,Yes,Yes,Yes,Type 2
+P448,112,124,5.3,110,No,Prediabetes,Non-binary,Ohio,175,97,43.1,78,Moderate,Yes,No,60,Yes,Yes,No,No,Yes,Prediabetes
+P449,195,244,9,230,No,Likely Diabetes,Non-binary,Georgia,167,62,24.2,71,Light,Yes,No,24,Yes,Yes,No,No,No,Type 2
+P450,148,112,9.5,108,Yes,Likely Diabetes,Male,North Carolina,100,87,29.6,71,Intense,Yes,No,58,No,Yes,Yes,Yes,No,Type 2
+P451,181,124,5.1,123,Yes,Likely Diabetes,Non-binary,North Carolina,133,85,18.8,74,Intense,No,No,29,No,No,Yes,No,Yes,Type 2
+P452,153,167,8.9,167,No,Likely Diabetes,Male,Texas,154,89,41.2,69,Moderate,Yes,No,32,Yes,No,Yes,Yes,Yes,Type 2
+P453,208,237,7.2,214,Yes,Likely Diabetes,Non-binary,Michigan,122,72,37.9,71,Light,Yes,No,9,Yes,Yes,No,No,Yes,Type 2
+P454,145,166,9.1,206,Yes,Likely Diabetes,Female,California,148,72,43.6,21,Moderate,Sometimes,Yes,19,No,No,Yes,No,Yes,Gestational
+P455,132,208,7.5,141,No,Likely Diabetes,Male,Texas,131,61,39.2,28,None,Yes,No,10,No,No,Yes,No,Yes,Type 2
+P456,103,245,7.9,116,Yes,Likely Diabetes,Male,Illinois,103,96,26.8,49,None,Sometimes,No,33,Yes,Yes,No,No,Yes,Type 2
+P457,88,210,7.4,246,No,Likely Diabetes,Female,Florida,176,108,25.1,66,None,Yes,Yes,23,Yes,Yes,Yes,Yes,Yes,Gestational
+P458,119,210,8.9,245,Yes,Likely Diabetes,Male,Florida,150,97,37,24,None,Yes,No,5,Yes,No,Yes,No,Yes,Type 2
+P459,148,133,8.2,124,Yes,Likely Diabetes,Non-binary,North Carolina,153,61,28.1,63,Moderate,Sometimes,No,5,Yes,No,Yes,Yes,Yes,Type 2
+P460,133,210,7.2,225,Yes,Likely Diabetes,Non-binary,Ohio,179,95,33.5,75,None,Yes,No,7,Yes,No,No,No,No,Type 2
+P461,101,107,8.9,233,No,Likely Diabetes,Male,Georgia,96,85,18.7,28,Light,No,No,14,No,No,No,No,No,Type 2
+P462,128,212,6,195,Yes,Likely Diabetes,Non-binary,California,155,70,20.1,45,Intense,No,No,25,Yes,Yes,No,No,Yes,Type 2
+P463,176,182,5.5,253,Yes,Likely Diabetes,Male,Texas,152,67,32.7,71,Intense,Yes,No,44,No,No,Yes,Yes,Yes,Type 2
+P464,114,141,5.6,247,No,Prediabetes,Female,Georgia,154,103,33.5,58,None,No,No,7,Yes,No,No,No,Yes,Prediabetes
+P465,177,200,6.4,235,Yes,Likely Diabetes,Male,Texas,134,99,38.4,40,None,Sometimes,No,29,No,No,No,No,Yes,Type 2
+P466,130,105,5.9,91,Yes,Likely Diabetes,Female,Michigan,130,102,22,62,None,Yes,No,49,No,Yes,No,No,No,Type 2
+P467,201,125,9.2,166,No,Likely Diabetes,Non-binary,Illinois,131,81,32.1,40,Moderate,Yes,No,24,Yes,Yes,Yes,Yes,Yes,Type 1
+P468,90,163,5.3,221,Yes,Likely Diabetes,Female,Illinois,173,79,23.7,67,Intense,Sometimes,No,56,Yes,Yes,No,Yes,No,Type 2
+P469,183,158,8.1,179,No,Likely Diabetes,Non-binary,Georgia,112,67,21,45,None,Sometimes,No,38,No,No,Yes,Yes,No,Type 2
+P470,208,208,5.7,178,No,Likely Diabetes,Male,Georgia,157,88,29.4,60,Light,Sometimes,No,25,Yes,Yes,Yes,No,Yes,Type 2
+P471,189,220,8.9,183,No,Likely Diabetes,Non-binary,Georgia,116,99,22.8,64,None,Yes,No,60,Yes,Yes,No,Yes,Yes,Type 2
+P472,121,132,9.3,96,Yes,Likely Diabetes,Male,Texas,105,85,24.4,74,Intense,Sometimes,No,59,Yes,Yes,Yes,No,Yes,Type 2
+P473,108,249,7,184,No,Likely Diabetes,Male,Michigan,152,89,26.9,43,None,Sometimes,No,27,No,Yes,No,Yes,Yes,Type 1
+P474,177,120,8.9,197,Yes,Likely Diabetes,Female,New York,151,76,25.4,42,Intense,No,No,10,Yes,No,Yes,No,Yes,Type 2
+P475,197,169,4.8,163,No,Likely Diabetes,Female,Georgia,171,79,20.8,71,None,No,No,70,No,No,No,No,Yes,Type 2
+P476,130,211,8.7,128,Yes,Likely Diabetes,Female,Ohio,98,75,20.9,46,Light,Yes,Yes,23,Yes,No,No,No,No,Gestational
+P477,137,103,5.9,230,Yes,Likely Diabetes,Female,California,101,105,23.6,36,None,No,No,23,No,Yes,No,No,Yes,Type 2
+P478,179,193,9.1,248,Yes,Likely Diabetes,Non-binary,California,155,102,19.8,50,Light,No,No,11,Yes,No,Yes,Yes,Yes,Type 2
+P479,183,174,4.8,160,No,Likely Diabetes,Non-binary,Texas,148,66,35.1,53,Light,Sometimes,No,46,No,Yes,Yes,Yes,No,Type 2
+P480,144,161,7.4,145,No,Likely Diabetes,Non-binary,Georgia,162,75,26.1,31,None,Sometimes,No,14,Yes,Yes,No,Yes,No,Type 1
+P481,181,193,8.4,259,Yes,Likely Diabetes,Male,North Carolina,173,104,25.9,31,Light,No,No,31,No,Yes,Yes,No,Yes,Type 2
+P482,200,194,6,131,Yes,Likely Diabetes,Non-binary,Florida,95,106,27.3,52,Moderate,No,No,24,No,Yes,No,No,No,Type 2
+P483,147,154,5.7,125,No,Likely Diabetes,Non-binary,New York,149,107,36.1,47,None,No,No,13,Yes,Yes,No,No,Yes,Type 2
+P484,209,236,5.2,173,Yes,Likely Diabetes,Non-binary,Ohio,97,86,41.6,45,None,Yes,No,21,Yes,No,Yes,No,Yes,Type 2
+P485,169,230,6.3,207,Yes,Likely Diabetes,Female,Michigan,172,82,38.6,34,Light,Yes,No,31,Yes,No,Yes,No,Yes,Type 2
+P486,116,130,7.4,96,No,Likely Diabetes,Non-binary,North Carolina,132,83,37.8,20,Light,Yes,No,19,Yes,No,Yes,No,Yes,Type 2
+P487,171,139,5.3,143,Yes,Likely Diabetes,Male,Illinois,95,68,31.3,33,None,No,No,6,No,Yes,No,No,No,Type 2
+P488,117,135,6.6,218,No,Likely Diabetes,Female,North Carolina,132,94,36.9,63,Moderate,No,No,40,Yes,Yes,Yes,Yes,No,Type 2
+P489,151,105,4.8,209,Yes,Likely Diabetes,Male,Texas,179,79,33.1,47,Light,Yes,No,23,Yes,Yes,Yes,No,No,Type 2
+P490,102,165,8.6,195,Yes,Likely Diabetes,Non-binary,New York,123,96,24.2,69,Light,Yes,No,21,No,No,Yes,No,Yes,Type 2
+P491,109,174,5.4,136,Yes,Prediabetes,Female,Pennsylvania,99,101,24,46,Intense,No,No,9,Yes,No,No,No,Yes,Prediabetes
+P492,190,103,6.1,212,No,Likely Diabetes,Male,Pennsylvania,168,76,26.4,62,Moderate,Sometimes,No,43,Yes,No,Yes,No,Yes,Type 2
+P493,179,178,4.9,230,Yes,Likely Diabetes,Non-binary,Georgia,115,106,42.6,32,Moderate,Yes,No,22,Yes,Yes,Yes,No,Yes,Type 2
+P494,138,233,6.8,208,No,Likely Diabetes,Male,Georgia,165,90,33,63,None,No,No,57,No,No,No,Yes,No,Type 2
+P495,142,217,8.7,239,Yes,Likely Diabetes,Male,Texas,161,67,37.9,73,Moderate,No,No,43,No,Yes,No,No,No,Type 2
+P496,151,212,6.6,207,No,Likely Diabetes,Male,Michigan,141,74,27.7,42,None,Sometimes,No,40,No,No,No,No,Yes,Type 2
+P497,188,193,5.6,110,Yes,Likely Diabetes,Non-binary,Georgia,178,90,29.3,68,Intense,No,No,44,Yes,No,Yes,Yes,Yes,Type 2
+P498,130,161,8.3,226,Yes,Likely Diabetes,Non-binary,Florida,177,89,21.8,55,Moderate,No,No,49,No,No,Yes,No,Yes,Type 2
+P499,108,178,8.5,115,No,Likely Diabetes,Male,New York,129,105,23,59,Light,Yes,No,8,Yes,No,No,No,Yes,Type 2
+P500,198,235,5.6,98,Yes,Likely Diabetes,Female,Texas,162,79,40.4,76,Intense,Yes,No,29,Yes,Yes,Yes,No,Yes,Type 2
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+KEY,,,,,,,,,,,,,,,,,,,,,,
+,"- **ID**: A unique identifier assigned to each individual in the dataset (e.g., P1, P2, etc.).",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **Fasting Glucose (mg/dL)**: The person's blood sugar level after not eating for at least 8 hours. Used to help diagnose diabetes or prediabetes.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **OGTT 2hr (mg/dL)**: Blood sugar level two hours after consuming a sugary drink. It's a common test for diabetes diagnosis.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **HbA1c (%)**: This reflects the average blood sugar level over the past two to three months. Higher percentages mean consistently high blood sugar.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Random Glucose (mg/dL)**: A blood sugar reading taken at any random time of the day, regardless of meals. If high and accompanied by symptoms, it can indicate diabetes.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **Symptoms**: Indicates whether the person reported general diabetes-related symptoms.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Diagnosis**: Based on test values and symptoms, this suggests whether the person likely has diabetes, prediabetes, or normal blood sugar.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Gender**: The reported gender of the individual—can be Male, Female, or Non-binary.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **State**: The U.S. state the person is from, useful for geographic or regional analysis.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Systolic BP (mmHg)**: The top number in a blood pressure reading, measuring pressure in arteries during heartbeats.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Diastolic BP (mmHg)**: The bottom number in a blood pressure reading, measuring pressure between heartbeats.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **BMI**: Body Mass Index—a value based on height and weight that helps categorize whether a person is underweight, normal weight, overweight, or obese.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **Age**: The individual’s current age.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Exercise Level**: The self-reported level of physical activity, such as None, Light, Moderate, or Intense.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Access to Healthy Food**: Indicates whether the person has consistent access to nutritious food, which can impact diabetes management and prevention.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Pregnant**: Indicates if the person is currently pregnant, which is important for assessing the risk of gestational diabetes.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **Age at Onset**: The age when the individual first started experiencing symptoms or was diagnosed with diabetes.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Family History**: Shows whether the individual has a family history of diabetes, which is a key risk factor.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Frequent Urination**: A common symptom of diabetes, showing if the person experiences excessive urination.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,- **Very Thirsty**: Indicates if the individual experiences extreme thirst—another typical diabetes symptom.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Weight Loss**: Notes if the person has had unexplained or sudden weight loss, often linked to Type 1 diabetes.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,"- **Feeling Exhausted**: Reflects whether the person experiences ongoing fatigue, which is a common sign of uncontrolled blood sugar.",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
