@@ -15,9 +15,6 @@ library(broom)
 
 
 install.packages("rsconnect")
-rsconnect::setAccountInfo(name='niyatip',
-                          token='E4CF50E49CE3EA01AE5941380332D435',
-                          secret='yhrD+edbqBuP0tetgK3OQxbOkv3ZtRNFIWtaHWcR')
 
 
 # Load and preprocess data
