@@ -30,7 +30,9 @@ All data is stored on a cloud-based warehouse because data needs to be access by
 
 Several queries were run in SQL workbench. Below is an example of the query. For all visualizations, RStudio and Shiny app is used to create user-friendly surfaces for all to learn about various demographic and disease information. Refer to the picture below for a visual based on the query.
 
-Query- ![image](https://github.com/user-attachments/assets/d260fac3-be59-4ea9-8b63-e90c1919cfbe)
+Query- ![Screenshot 2025-04-28 024319](https://github.com/user-attachments/assets/59d535fa-7964-4fe5-9ed5-0c3716799de5)
+
+
 Visual- ![image](https://github.com/user-attachments/assets/446ebeba-c27b-42ba-8878-d152d0f674e5)
 
 
